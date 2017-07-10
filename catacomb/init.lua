@@ -29,14 +29,14 @@ local np_cata = {
 }
 
 -- Passages
-local MINPLEN = 3 -- Min max length
+local MINPLEN = 25 -- Min max length
 local MAXPLEN = 32
-local MINPWID = 3 -- Min max outer width
-local MAXPWID = 24
+local MINPWID = 12 -- Min max outer width
+local MAXPWID = 18
 
 -- Chambers
-local MINCWID = 6 -- Min max outer EW NS widths, min max outer height.
-local MAXCWID = 32
+local MINCWID = 55 -- Min max outer EW NS widths, min max outer height.
+local MAXCWID = 65
 local MINCHEI = 6
 local MAXCHEI = 32
 
