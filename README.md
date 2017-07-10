@@ -14,3 +14,5 @@ It would be nice if you give me ideas or programming tips as I progress this mod
 
 
 This project is very far from finished.
+
+If you forked this modpack, and if you made it better, it's better to merge it back in here. 
