@@ -1,19 +1,19 @@
 -- Parameters
 
 -- Approximate generation limits
-local YMIN = -33000
-local YMAX = 33000
-local XMIN = -33000
-local XMAX = 33000
-local ZMIN = -33000
+local YMIN = -10000
+local YMAX = 10000
+local XMIN = -24000
+local XMAX = 34000
+local ZMIN = -13000
 local ZMAX = 33000
-local YMAXSPA = -33 -- Maximum y for initial catacomb spawn and steps in air
+local YMAXSPA = -330 -- Maximum y for initial catacomb spawn and steps in air
 
 -- Spawn and generation
 local TCATSPA = 2.0 -- 3D noise threshold for initial chamber
 local TCATA = -2.0 -- 3D noise for generation limit
 local GEN = true -- Enable spawn and generation
-local OBCHECK = true -- Enable chamber obstruction check
+local OBCHECK = false -- Enable chamber obstruction check
 local ABMINT = 1 -- ABM interval multiplier, 1 = fast generation
 
 -- Spawn and generation noise
