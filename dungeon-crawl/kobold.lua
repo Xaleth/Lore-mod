@@ -1,4 +1,4 @@
--- The kobold mob that is rarer than the goblin and slightly harder.
+-- The kobold mob that is rarer than the goblin and slightly larger.
 kobold={
-  gravity=10,
+  gravity=15,
   character_model="
