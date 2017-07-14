@@ -25,6 +25,10 @@ Overall TODO list:
 
 - Learn Lua.
 
+- Add lore, folklore, legends, books with stories, spellbooks.
+
+- Fix tons of stuff along the way.
+
 dungeon-crawl TODO list: 
 
 - Make new spawn.lua
