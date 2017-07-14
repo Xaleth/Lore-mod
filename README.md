@@ -43,6 +43,8 @@ nethack TODO list:
 
 - Add experience system.
 
+- Add orcish mines, and make orcs spawn in it.
+
 catacomb TODO list:
 
 - Add tons of new custom rooms i.e. the Big Room from nethack.
