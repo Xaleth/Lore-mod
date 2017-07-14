@@ -4,6 +4,11 @@ dungeon-crawl = {}
 
 dofile(path.."/spawn.lua")
 
+-- Mobs
+dofile(path.."/mobs/kobold.lua")
+
+
+-- Nodes
 minetest.register_node(":dungeon-crawl:dudresser", {
     description = "Dungeon drawer",
     tiles = {"dresser_top.png", "dresser_front.png"},
