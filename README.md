@@ -52,3 +52,9 @@ catacomb TODO list:
 - Add lots of new nodes.
 
 - Add doors to custom rooms.
+
+Noob questions:
+
+- How do I add a repository to this repository? I'm trying to add the roomgen repository to the current one.
+
+- How do I add .png files to this repository?
