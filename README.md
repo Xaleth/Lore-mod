@@ -29,6 +29,8 @@ Overall TODO list:
 
 - Fix tons of stuff along the way.
 
+- Merge roomgen mod into this repository.
+
 dungeon-crawl TODO list: 
 
 - Make new spawn.lua
