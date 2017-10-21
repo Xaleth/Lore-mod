@@ -1,13 +1,13 @@
 -- Parameters
 
 -- Approximate generation limits
-local YMIN = -10000
-local YMAX = 10000
-local XMIN = -24000
-local XMAX = 34000
-local ZMIN = -13000
+local YMIN = -33000
+local YMAX = 33000
+local XMIN = -33000
+local XMAX = 39000
+local ZMIN = -33000
 local ZMAX = 33000
-local YMAXSPA = -330 -- Maximum y for initial catacomb spawn and steps in air
+local YMAXSPA = -3330 -- Maximum y for initial catacomb spawn and steps in air
 
 -- Spawn and generation
 local TCATSPA = 2.0 -- 3D noise threshold for initial chamber
@@ -1012,3 +1012,5 @@ minetest.register_abm({
 		--print ("[catacomb] Chamber west " .. chugent .. "ms")
 	end,
 })
+local path = minetest.get_modpath("catacomb")
+dofile(path .. "/fill_chest.lua")
