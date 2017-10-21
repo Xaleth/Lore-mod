@@ -1,5 +1,5 @@
 # Lore-mod
-Creator: Noob_Programmer
+Creator: NoobProgrammer101 or roboto
 
 License: GPLv2
 
