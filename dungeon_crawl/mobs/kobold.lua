@@ -16,10 +16,10 @@ mobs:register_mob("dungeon_crawl:kobold", {
 	{"default:sword_bronze", chance 1}
   },
   if initial_inventory={"default:sword_steel"}; then
-		return nil "default:sword_bronze"
+		"default:sword_bronze" = nil
   end,
   if initial_inventory={"default:sword_bronze"}; then
-		return nil "default:sword_steel"
+		"default:sword_steel" = nil
   end,
   visual_size = {x=1, y=2},
   mesh = "character.b3d",
