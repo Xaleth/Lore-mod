@@ -57,6 +57,6 @@ catacomb TODO list:
 
 Noob questions:
 
-- How do I add a repository to this repository? I'm trying to add the roomgen repository to the current one.
+- How do I add a repository to this repository? I'm trying to add the roomgen repository to the current one. (SOLVED) use supreme local git client
 
-- How do I add .png files to this repository?
+- How do I add .png files to this repository? (SOLVED) Supreme local git client again.
